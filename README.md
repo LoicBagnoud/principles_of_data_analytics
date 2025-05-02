@@ -4,11 +4,11 @@
 
 ### Task Description 
 >
-The following are a list of 10 tasks that go into an analysis of the Iris Data Set and the various ways we can do it. 
+The following are a list of 10 tasks that go into the analysis of the Iris Data Set and the various ways we can look into it and extract information.
 >
 Everything is stored in a Jupyter Notebook, using Python code, with several comments describing and highlighting the code we use along the way. The Python interpreter is a programming language that is freely accessible and it being the most common language in Data Analysis, it makes sense that we should use it here.
 >
-The purpose of this project is to investigate the Fisher Iris data set described above using Python code. Python is a high level interpreted general purpose programming language. The Python interpreter and its extensive standard library are freely available to all. 
+The purpose of this project is to investigate the Fisher Iris data set described above using Python code. Python is a high level interpreted general purpose programming language with the The Python interpreter and its extensive standard library are freely available to all. 
 >
 To run the code, you will need a proper integrated development environment (IDE). It is recommended to use Visual Studio as the IDE of choice but any other IDE is capable of running this code. Visual Studio Code can be downloaded [here](https://code.visualstudio.com/)
 >
@@ -19,18 +19,19 @@ To run the code, you will need a proper integrated development environment (IDE)
 >
 ### Python and Packages used
 >
-As mentioned before, in order to run this code, Python 3 will need to be installed on the machine you are using. You can get Python 3 from their official website here: https://www.python.org/downloads/ 
+To run this project, you'll need Python 3 installed on your machine. You can download the latest version from the official Python website: https://www.python.org/downloads/
+>
 Please make sure you follow the instructions outlined there. Additionally, this code uses several packages in order to achieve most of the tasks' objectives. It is expected that those are also properly downloaded and installed on your machine.
 >
-Instrutions are provided in each package below in order to install them but it is advisable to use Anaconda Distribution as it already contains most of these packages installed from the get go. You can download Anaconda Distribution from here: https://www.anaconda.com/download/success
+Instrutions are provided in each package below in order to install them but it is advisable to use Anaconda Distribution as it already contains most of these packages pre-installed. You can download Anaconda Distribution from here: https://www.anaconda.com/download/success
 >
-Alternatively, a requirements txt file is also provided with all of the packages that have been used, should you wish to quickly reproduce he github environment by running `pip install -r requirements.txt` to get exactly the same packages used in the project.
+Alternatively, a requirements txt file is also provided with all of the packages that have been used, should you wish to quickly reproduce the github environment by running `pip install -r requirements.txt` to get exactly the same packages used in the project.
 >
 The following list are the packages used:
 
 #### Numpy
 >
-[Numpy](https://numpy.org/) provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to perform operations on them efficiently. It's the foundation for many scientific and data libraries, including Pandas and scikit-learn. For more informaation on how to install Numpy, please see the following: https://numpy.org/install/
+[Numpy](https://numpy.org/) provides support for large, multi-dimensional arrays and matrices, along with a wide range of mathematical functions to perform operations on them efficiently. It's the foundation for many scientific and data libraries, including Pandas and scikit-learn. For more information on how to install Numpy, please see the following: https://numpy.org/install/
 >
 #### Pandas
 >
@@ -51,7 +52,7 @@ As per their website, [Seaborn](https://seaborn.pydata.org/) is a Python data vi
 >
 [Scipy](https://scipy.org/) is a Python library built on top of NumPy that provides advanced mathematical and scientific functions. It includes modules for optimization, integration, linear algebra, etc. For more information installing matplotlib, please see the following: https://scipy.org/install/
 >
-For more help in understanding and dealing with each package, please make to peruse and investigate the relevant documentation:
+For more help in understanding and dealing with each package, please make sure to review and investigate the relevant documentation:
 >
 - [Numpy Documentation](https://numpy.org/doc/stable/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/index.html)
